@@ -1,14 +1,16 @@
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100&display=swap');
-</style>
-* {
-    font-family: 'Noto Sans KR', sans-serif;
-}
+  @import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
 
-.title-box {
+  *{
+    font-family: 'Nanum+myeongjo', 'sans-serif';
+  }
+
+  .title-box {
     text-align: right;
     margin-bottom: 20px;
 }
+
+</style>
 
 body, h1, h2 {
     margin: 8px;
