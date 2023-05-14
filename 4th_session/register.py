@@ -27,7 +27,7 @@ while not register:
 users=[]
 
 while True:
-    user:{}
+    user: {}
     username=input('ID: ')
     while True:
         pwd=input('PWD: ')
